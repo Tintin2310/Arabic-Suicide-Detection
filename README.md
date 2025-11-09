@@ -36,6 +36,7 @@ The dataset contains tweets from different Arabic dialects and has been **expert
 ## Model File
 
 The trained model is stored externally due to size limits.
+
 ---
 
 ## Installation
